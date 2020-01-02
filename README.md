@@ -1,2 +1,2 @@
 # online-student-admission-system
-online studentadnission system
+online student admission system
